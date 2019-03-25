@@ -1,0 +1,11 @@
+# IntelliJ project files
+.idea
+*.iml
+log
+out
+gen
+target
+*-debug.yml
+*.txt
+logs
+jars

@@ -1,0 +1,12 @@
+server:
+  port: 8011
+spring:
+  application:
+    name: microservice-comsumer-ribbon-hystrix
+eureka:
+  client:
+    service-url:
+      defaultZone: http://discovery:8761/eureka/
+  instance:
+    hostname: ribbon
+    prefer-ip-address: false
