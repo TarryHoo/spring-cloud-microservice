@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://gitlab.tslgy.com/wushaodong/spring-cloud-microservice/
+          uri: https://gitlab.tslgy.com/wushaodong/spring-cloud-microservice/tree/master
           username: wushaodong
           password: wushaodong
           search-paths: config-repo
